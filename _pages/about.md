@@ -15,7 +15,7 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 
 Education
 ======
-* MPhil in ECE, The Hong Kong University of Science and Technology, 2023 - Present
+* M.Phil in ECE, The Hong Kong University of Science and Technology, 2023 - Present
 * B.S. in Test Technology and Instrument, Tsinghua University, 2019 - 2023
 
 Honors and Awards
