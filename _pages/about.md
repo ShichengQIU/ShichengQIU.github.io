@@ -29,4 +29,4 @@ Honors and Awards
 
 Academic Activities
 ======
-The 4th International Workshop on Neural Engineering and Rehabilitation, Chengdu, Sichuan, China, 2023
+The 4th International Workshop on Neural Engineering and Rehabilitation, 2023
