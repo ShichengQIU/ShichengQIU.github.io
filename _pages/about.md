@@ -26,9 +26,6 @@ Honors and Awards
 * First Prize in Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), 2021
 * First Prize in Tsinghua University Optoelectronic Design Competition, 2021
 
-Publications
-======
-
 
 Academic Activities
 ======
