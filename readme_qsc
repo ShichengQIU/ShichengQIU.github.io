@@ -1,0 +1,5 @@
+_data中的navigation是页面部分的汇总（内容命名自定义，例如我将portfolio换为gallery,将blog post换为projects）
+不同文件夹下对应了不同部分的细节内容，例如_portfolio就是gallery中的图片；_posts控制着projects中的内容
+传入的图片和文件应该导入files以及images中
+_config.yml对应了主页面中的左侧信息
+——pages中有主页面的信息形式，例如about就是主页面内容简历
