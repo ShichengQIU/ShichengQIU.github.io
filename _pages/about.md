@@ -20,10 +20,11 @@ Education
 
 Honors and Awards
 ======
+* First Prize in IEEE SMC 2023 BMI workshop Hackathon（https://www.br41n.io/IEEE-SMC-2023），2023
 * Postgraduate Scholarship (PGS), 2023
 * Third Prize of the 40th Challenge Cup, Tsinghua University, 2022
 * Comprehensive Excellence Award, Tsinghua University, 2021
-* First Prize in Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), 2021
+* First Prize in National Undergraduate Mathematical Contest in Modeling(CUMCM), 2021
 * First Prize in Tsinghua University Optoelectronic Design Competition, 2021
 
 
